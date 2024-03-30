@@ -1,0 +1,52 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Portfolio Website",
+        "description": "The Portfolio Website project is a personal website designed to showcase an individual's skills, experiences, projects, and accomplishments.",
+        "link":"",
+        "isHosted": true,
+        "image": "/courses/guitar.jpg" 
+      },
+      {
+        "id": 1,
+        "title": "Spotify clone",
+        "description": "A Spotify clone website project aims to replicate the core functionality and user experience of the popular music streaming platform Spotify.",
+        "link":"",
+        "isHosted": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 1,
+        "title": "Password generator Website",
+        "description":"The Password Generator Website is a web application designed to generate strong and secure passwords based on user-defined criteria. ",
+        "link":"",
+        "isHosted": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 1,
+        "title": "Portfolio Website",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "link":"",
+        "isHosted": false,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 1,
+        "title": "Portfolio Website",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "isHosted": false,
+        "link":"",
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 1,
+        "title": "Portfolio Website",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "isHosted": false,
+        "link":"",
+        "image": "/courses/guitar.jpg"
+      }
+    ]
+}
