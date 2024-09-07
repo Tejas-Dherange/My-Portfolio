@@ -39,12 +39,12 @@ function Introduction() {
         <h1
           className=" mt-20 md:mt-0 text-3xl md:text-7xl font-bold bg-gradient-to-r from-blue-900 to-white text-transparent bg-clip-text"
         >
-         {` Hii , I'm Tejas
-          `}
+          Hii , I&apos;m Tejas
+          
           </h1>
 
-        <TextGenerateEffect className="mt-4  text-base md:text-lg text-neutral-300 max-w-lg mx-auto" words="I am a Developer ,
-          Learner , programmer and a full stack developer who can build scalable full stack applications"/>
+        <TextGenerateEffect className="mt-4  text-base md:text-lg text-neutral-300 max-w-lg mx-auto" words={`I am a Developer ,
+          Learner , programmer and a full stack developer who can build scalable full stack applications`}/>
 
         <div className="mt-4  flex justify-center gap-4 ">
           <Link href={"/contact"}>
