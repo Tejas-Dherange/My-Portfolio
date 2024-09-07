@@ -34,7 +34,7 @@ function Myprojects() {
               <BackgroundGradient
                 className="flex flex-col rounded-[22px] bg-white dark:bg-zinc-900 overflow-hidden h-full max-w-sm">
                 <div className="p-7 sm:p-6 flex flex-col items-center text-center flex-grow">
-                  <p className=" w-full "><img className="w-full border border-gray-500 h-[180px]  rounded-[22px]" src={`/${project.image}`} alt="" /></p>
+                  <p className=" w-full "><Image height={180} width={200} className="w-full border border-gray-500 h-[180px]  rounded-[22px]" src={`/${project.image}`} alt="" /></p>
                   <p className="text-lg sm:text-2xl text-black mt-4 mb-2 dark:text-neutral-200 font-extrabold">{project.title}</p>
                   <div className="btn flex gap-10">
 
