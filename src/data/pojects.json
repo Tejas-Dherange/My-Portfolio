@@ -4,49 +4,56 @@
         "id": 1,
         "title": "Portfolio Website",
         "description": "The Portfolio Website project is a personal website designed to showcase an individual's skills, experiences, projects, and accomplishments.",
-        "link":"",
+       
         "isHosted": true,
-        "image": "/courses/guitar.jpg" 
+        "image": "Portfolio.png" ,
+        "btnLinkGit": "https://github.com/Tejas-Dherange/My-Portfolio",
+        "btnLinkLive": "#"
       },
       {
-        "id": 1,
-        "title": "Spotify clone",
+        "id": 2,
+        "title": "Movies Mingle",
+        "description":"A Movie Mingle project aims to replicate the core functionality and user experience of the popular movie streaming platform Netflix.",
+        "isHosted": true,
+        "image": "Movies-Mingle.png",
+         "btnLinkGit": "https://github.com/Tejas-Dherange/Movies",
+        "btnLinkLive": "https://movies-mingle-jade.vercel.app"
+      },
+      {
+        "id": 3,
+        "title": "Weather App",
+        "description": "The Weather App project is a web application that provides real-time weather data for any location in the world.",
+        "isHosted": true,
+        "image": "Weather.png",
+        "btnLinkGit": "#",
+        "btnLinkLive": "#"
+      },
+      {
+        "id": 4,
+        "title": "Spotify Clone",
         "description": "A Spotify clone website project aims to replicate the core functionality and user experience of the popular music streaming platform Spotify.",
-        "link":"",
         "isHosted": true,
-        "image": "/courses/guitar.jpg"
+        "image": "Spotify.png",
+         "btnLinkGit": "#",
+        "btnLinkLive": "#"
       },
       {
-        "id": 1,
-        "title": "Password generator Website",
-        "description":"The Password Generator Website is a web application designed to generate strong and secure passwords based on user-defined criteria. ",
-        "link":"",
+        "id": 5,
+        "title": "Crrency Converter",
+        "description": "A currency converter website that allows users to easily convert between different currencies using the latest exchange rates.",
         "isHosted": true,
-        "image": "/courses/guitar.jpg"
+        "image": "Currency.png",
+       "btnLinkGit": "https://github.com/Tejas-Dherange/Currency-Convertor",
+        "btnLinkLive": "#"
       },
       {
-        "id": 1,
-        "title": "Portfolio Website",
-        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
-        "link":"",
-        "isHosted": false,
-        "image": "/courses/guitar.jpg"
-      },
-      {
-        "id": 1,
-        "title": "Portfolio Website",
-        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
-        "isHosted": false,
-        "link":"",
-        "image": "/courses/guitar.jpg"
-      },
-      {
-        "id": 1,
-        "title": "Portfolio Website",
-        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
-        "isHosted": false,
-        "link":"",
-        "image": "/courses/guitar.jpg"
+        "id": 6,
+        "title": "Password Generator",
+        "description": "The Password Generator Website is a web application designed to generate strong and secure passwords based on user-defined criteria.",
+        "isHosted": true,
+        "image": "Password.png",
+       "btnLinkGit": "https://github.com/Tejas-Dherange/Password-Generator",
+        "btnLinkLive": "#"
       }
     ]
 }
