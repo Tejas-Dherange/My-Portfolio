@@ -63,9 +63,6 @@ function Introduction() {
           </Link>
         </div>
       </div>
-
-      {/* //use whenever spotlight is not used */}
-      {/* <BackgroundBeams/> */}
     </div>
 
 

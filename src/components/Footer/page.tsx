@@ -31,7 +31,7 @@ const Footer = () => {
 
                               
                                 <Link href={"https://www.linkedin.com/in/tejas-dherange-54a6a627b"} className={" cursor-pointer"}>
-                                <img className=" h-10 w-10 rounded-lg  hover:bg-purple-500 transform transition-transform duration-300 hover:scale-105 bg-slate-600 text-slate-600"  src="LinkedIn.svg" alt="" />
+                                <Image height={40} width={40} className=" h-10 w-10 rounded-lg  hover:bg-purple-500 transform transition-transform duration-300 hover:scale-105 bg-slate-600 text-slate-600"  src="LinkedIn.svg" alt="" />
                                 </Link>
                         </div>
             </div>
