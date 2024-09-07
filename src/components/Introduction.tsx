@@ -22,7 +22,7 @@ function Introduction() {
 
       <Spotlight
         className="-top-40 left-0 md:left-60 md:-top-20"
-        fill=" #e0f2f1"
+        fill="#e0f2f1"
       />
       <div className="image absolute sm:left-24 md:mt-16 rounded-3xl border-white  justify-center top-32 ">
         <Image
@@ -30,7 +30,7 @@ function Introduction() {
           alt="Description of your image"
           width={350}
           height={300}
-          className='bg-white rounded-full boder-solid border-white border-[1px]'
+          className="bg-white rounded-full boder-solid border-white border-[1px]"
         />
       </div>
 
