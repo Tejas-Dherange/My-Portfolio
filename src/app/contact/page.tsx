@@ -87,7 +87,7 @@ const ContactPage = () => {
       />
       <button
         onClick={onSend}
-        className="p-2 border hover:bg-slate-600 border-gray-300 rounded-lg mb-4 focus:outline-none focus:border-gray-600">
+        className="p-2 border hover:bg-slate-600 border-gray-300 rounded-lg mb-4 focus:outline-none  text-white focus:border-gray-600">
         {buttonDisabled ? "No Send" : "Send"}</button>
         
         </div>
