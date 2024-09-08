@@ -56,7 +56,7 @@ const ContactPage = () => {
        
       <hr />
       <div className="inputContainer flex flex-col items-center bg-gray-900 p-8 mt-3 rounded-lg ">
-        <h1 className='font-bold text-xl text-blue-100'> tejasdherange0099@gmail.com</h1>
+{/*         <h1 className='font-bold text-xl text-blue-100'> tejasdherange0099@gmail.com</h1> */}
       <label htmlFor="email" className='mt-4 font-bold text-xl text-blue-600'> Email</label>
       <input
         className="p-2 border w-80 mt-4 border-gray-300 rounded-lg mb-4 focus:outline-none focus:border-gray-600 text-black "
