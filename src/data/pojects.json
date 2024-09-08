@@ -25,8 +25,8 @@
         "description": "The Weather App project is a web application that provides real-time weather data for any location in the world.",
         "isHosted": true,
         "image": "Weather.png",
-        "btnLinkGit": "#",
-        "btnLinkLive": "#"
+        "btnLinkGit": "https://github.com/Tejas-Dherange/Weather-App",
+        "btnLinkLive": "https://precious-beignet-8bf420.netlify.app/"
       },
       {
         "id": 4,
