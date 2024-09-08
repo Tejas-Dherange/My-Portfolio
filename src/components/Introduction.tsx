@@ -24,7 +24,7 @@ function Introduction() {
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="#e0f2f1"
       />
-      <div className="image absolute sm:left-24 md:mt-16 rounded-3xl border-white  justify-center top-32 ">
+      <div className="image absolute sm:left-40 w-[300px] md:w-[400px] md:mt-16 rounded-3xl border-white  justify-center top-32 ">
         <Image
           src="/Profile.jpg"
           alt="Description of your image"
