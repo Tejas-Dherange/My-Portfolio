@@ -9,7 +9,7 @@ import { TextGenerateEffect } from "./ui/text-generate-effect";
  
 function Introduction() {
   const handleclick = () => {
-    const pdfUrl = '/MyResume.pdf';
+    const pdfUrl = '/MyResume1.pdf';
     const anchor = document.createElement('a');
     anchor.href = pdfUrl;
     anchor.download = 'MyResume1.pdf';
