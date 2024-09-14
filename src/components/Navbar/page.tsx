@@ -18,7 +18,7 @@ function Navbar({ className }: { className?: string }) {
                     </MenuItem>
                 </Link>
                 <MenuItem setActive={setActive} active={active} item="Lets Connect">
-                    <div className="flex flex-col space-y-8 text-xl p-4 ">
+                    <div className="flex flex-col space-y-8 text-xl p-4">
                         <HoveredLink  href="https://www.linkedin.com/in/tejas-dherange-54a6a627b">LinkedIn</HoveredLink>
                         <HoveredLink  href="https://www.instagram.com/tejasdherange_2182">Instagram</HoveredLink>
                         <HoveredLink  href="https://github.com/Tejas-Dherange">GitHub</HoveredLink>
